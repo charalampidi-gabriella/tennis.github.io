@@ -225,6 +225,14 @@ footer {
 
 /* Mobile responsive design */
 @media (max-width: 768px) {
+    
+    #about{
+        text-align: center;
+    }
+    #about p{
+        text-align: left;
+    }
+
     .small-img {
         float: none;
         display: block;
